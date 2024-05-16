@@ -1,0 +1,2 @@
+entities:
+- {file: ../../../../models/environments/mars/terrain.smurfs, name: environment}

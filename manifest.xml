@@ -1,0 +1,15 @@
+<package>
+  <description brief="dummy-brief-desc">
+  dummy-long-desc
+  </description>
+  <author>dummy-author/dummy-email</author>
+  <license>dummy-license</license>
+  <url>dummy-url</url>
+  <logo>dummy-logo-url</logo>
+
+  <depend package="simulation/mars2/mars_app" />
+  <depend package="simulation/mars2/mars_skydome" />
+  <depend package="simulation/mars2/mars_particle_system" />
+  <depend package="simulation/mars2/mars_scene_loader" />
+
+</package>
