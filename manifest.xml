@@ -11,5 +11,6 @@
   <depend package="simulation/mars2/mars_skydome" />
   <depend package="simulation/mars2/mars_particle_system" />
   <depend package="simulation/mars2/mars_scene_loader" />
+  <depend package="models/environments/mars" />
 
 </package>
